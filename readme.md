@@ -1,5 +1,5 @@
 # Working DIrectory
- - Aria where all of our files and directories and changes are living all the time
+ - Area where all of our files and directories and changes are living all the time
 
 # Staging Area
  - Files and directories that we explicitly add to the staging area
